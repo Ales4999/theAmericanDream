@@ -1,0 +1,38 @@
+You are the head of a low-income Mexican family. You have been working wihtout papers in the U.S. for some time now...
+You have finally been able to save enough money to bring your kids with you. 
+
+You go back to Mexico to pick them up, you have not seen them in 4 years, they have grown so much...
+Your children have been living with your mom in Iguala, Guerrero. 
+
+The goal is to travel (1993 miles) to Los Angeles California, so you and your family can have a better life...
+You can only attempt to cross the border depending on how much money you have left, and how many times you have tried to cross and failed. 
+
+The trip to the border is simple, but once you get there things get difficult.
+Crossing the border successfully is the hardest part. 
+You only have 3 attempts to do so.
+
+Parts of the game:
+1. The player buys supplies before leaving Iguala
+
+2. Option on how to begin your trip
+- Be able to reach the border through:
+    - Plane
+    - Train
+    - Bus
+*Each option varies in the affects on the family members and the cost
+
+3. Option to choose a city close to the border:
+- Your options to cross will vary depending on the city
+- Opportunity to change cities, try a different way
+
+4. Option to choose how to attempt to cross the border:
+- Supplies will decrease with each attempt, avoid running out.
+- There is going to be maximum of 3 attempts to cross the border
+- Each option will have its own risks and costs.
+- The higher the cost, the better the plan ⇒ Slight increase in probability of crossing successfully
+
+5. Border Crossing:
+    - Different risk factors
+    - Different routes to get to the LA
+
+6. The game ends when the player rans out of money, when they fail to cross more than 3 times, and when the player dies.

@@ -1,0 +1,5 @@
+How will you decide to start your trip?
+You have $10000.
+1. Travel by plane.
+2. Travel by bus.
+3. Travel by rented car.

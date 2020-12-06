@@ -1,0 +1,16 @@
+You are geeting closer to a chance for a better life...
+Now you need to decide from which city will you be attempting to cross the border.
+
+The two possible cities are:
+
+1. Mexicali
+    - Price to attempt to cross is lower    
+    - More dangerous
+    - Shorter path to cross
+    - Longer trip to L.A.
+
+2. Tijuana 
+    - Price to attempt to cross is higher 
+    - Higher chance of getting caught
+    - Longer path to cross
+    - Shorter trip to L.A.

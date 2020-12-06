@@ -1,0 +1,4 @@
+What do you want to do next?
+    1. Continue traveling
+    2. Rest for the night
+    3. Quit
